@@ -128,6 +128,3 @@ let enum = enumerate(aSliceable)	// for (index, value) in enumerate(aSliceable) 
 
 
 
-
-
-
